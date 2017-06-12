@@ -1,11 +1,11 @@
 @include foundation-everything;
 
 main {
-    background: lightblue;
+    background: #d1e9f1;
 }
 
 header {
-  background-color: lightgreen;
+  background-color: #ffb647;
   padding: 0.5rem;
 }
 
